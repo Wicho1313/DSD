@@ -1,0 +1,18 @@
+Cypress Package: palc22v10d-25pc  PinOut File: Dado.pin
+
+This file was created on 12/07/2018 at 04:11:21 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+clk gclk <> Enabled Normal 1 <> [Auto] 
+c in <> Enabled Normal 2 <> [Auto] 
+q(2) inout <> Enabled Normal 14 <> [Auto] 
+disp(6) inout <> Enabled Normal 15 <> [Auto] 
+disp(5) out <> Enabled Normal 16 <> [Auto] 
+disp(0) out <> Enabled Normal 17 <> [Auto] 
+disp(3) out <> Enabled Normal 18 <> [Auto] 
+disp(2) out <> Enabled Normal 19 <> [Auto] 
+disp(4) out <> Enabled Normal 20 <> [Auto] 
+disp(1) out <> Enabled Normal 21 <> [Auto] 
+q(0) inout <> Enabled Normal 22 <> [Auto] 
+q(1) inout <> Enabled Normal 23 <> [Auto] 

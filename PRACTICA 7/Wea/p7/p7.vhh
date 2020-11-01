@@ -1,0 +1,9 @@
+ENTITY conreg IS
+    PORT (
+	clr : in std_logic  ; 
+	clk : in std_logic  ; 
+	e : in std_logic_vector (3 downto 0) ; 
+	c : in std_logic_vector (2 downto 0) ; 
+	q : inout std_logic_vector (3 downto 0)
+    ) ;
+END conreg ;

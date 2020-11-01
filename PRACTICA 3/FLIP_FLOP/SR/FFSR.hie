@@ -1,0 +1,2 @@
+FFSR.vhd #Entity ffsr 8
+FFSR.vhd #Architecture a_ffsr ffsr 15

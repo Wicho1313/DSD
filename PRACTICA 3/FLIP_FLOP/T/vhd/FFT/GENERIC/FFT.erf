@@ -1,0 +1,6 @@
+MESSAGE "File: E:\FLIP_FLOP\T\vhd\FFT.vhd" 
+MESSAGE "Compile Entity "clock"" 
+MESSAGE "Compile Architecture "DSMB" of Entity "clock"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   clock" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.6 [s]" 

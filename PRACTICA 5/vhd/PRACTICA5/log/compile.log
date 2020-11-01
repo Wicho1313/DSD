@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: E:\ESCOM\DSD\PRACTICA 5\vhd\PRACTICA5.vhd
+ Compile Entity "condec"
+ Compile Architecture "DSMB" of Entity "condec"
+ Top-Level unit detected
+ Entity  =>   condec
+ Compile success 0 Errors 0 Warnings  Analysis time :  3.0 [s]

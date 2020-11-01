@@ -1,0 +1,11 @@
+Design: 09:13 a.m., Viernes, 21 de Septiembre de 2018
+Design: Opening design "E:\FLIP_FLOP\T\vhd\FFT\FFT.adf"
+Compilation with file reorder...
+File: E:\FLIP_FLOP\T\vhd\FFT.vhd
+Compile Entity "clock"
+Compile Architecture "DSMB" of Entity "clock"
+Top-Level unit detected
+Entity  =>   clock
+Compile success 0 Errors 0 Warnings  Analysis time :  0.6 [s]
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.1 [s].

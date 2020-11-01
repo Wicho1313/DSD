@@ -1,0 +1,8 @@
+[Project]
+Current config=GENERIC
+VCS=0
+modified=3
+[Configurations]
+GENERIC=FFT
+[Files]
+/E:\FLIP_FLOP\T\vhd\FFT.vhd=4, 1 30691765 208482560, 0, , , ,

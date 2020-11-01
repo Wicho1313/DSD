@@ -1,0 +1,2 @@
+FFT.vhd #Entity clock 3
+FFT.vhd #Architecture arq_clock clock 8

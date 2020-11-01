@@ -1,0 +1,6 @@
+ENTITY prioridad IS
+    PORT (
+	num : in std_logic_vector (8 downto 0) ; 
+	cod : inout std_logic_vector (3 downto 0)
+    ) ;
+END prioridad ;

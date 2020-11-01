@@ -1,0 +1,2 @@
+p7.vhd #Entity conreg 5
+p7.vhd #Architecture a_conreg conreg 17

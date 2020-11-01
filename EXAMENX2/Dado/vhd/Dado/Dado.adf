@@ -1,0 +1,8 @@
+[Project]
+Current config=GENERIC
+VCS=0
+modified=4
+[Configurations]
+GENERIC=Dado
+[Files]
+/E:\ESCOM\DSD\EXAMENX2\Dado\vhd\Dado.vhd=4, 1 30707221 873955584, 0, , , ,

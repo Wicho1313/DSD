@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: E:\FLIP_FLOP\T\vhd\FFT.vhd
+ Compile Entity "clock"
+ Compile Architecture "DSMB" of Entity "clock"
+ Top-Level unit detected
+ Entity  =>   clock
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.6 [s]
